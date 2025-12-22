@@ -81,7 +81,10 @@
   font-size: 1rem;
 }
 
-
+/* /* box 4  */
+.sign {
+  display: flex;
+}
 
 
 
