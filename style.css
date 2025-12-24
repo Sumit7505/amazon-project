@@ -172,12 +172,18 @@ a {
   justify-content: space-evenly;
   padding: 26px 0px 15px;
   margin-top: 15px;
+  flex-wrap: wrap;
 
 }
 .box-image {
-  background-image: url("box1_image.jpg");
   background-size: cover;
   height: 300px;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  color: #007185;
 }
